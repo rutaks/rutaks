@@ -38,4 +38,5 @@ You can find and get touch with me on these accounts!
 
 ### Anything Else?
 
-![image](nothing-else.gif)
+![image](https://github.com/rutaks/rutaks/blob/master/nothing-else.gif)
+
